@@ -1,31 +1,31 @@
-01. Umsatzerlöse
-02. Erhöhung oder Verminderung des Bestands an fertigen und unfertigen Erzeugnissen
-03. andere aktivierte Eigenleistungen
-04. sonstige betriebliche Erträge
-05. Materialaufwand
-  a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren
-  b) Aufwendungen für bezogene Leistungen
-06. Personalaufwand
-  a) Löhne und Gehälter
-  b) soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung
-    davon für Altersversorgung
-07. Abschreibungen
-  a) auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen
-  b) auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapitalgesellschaft üblichen Abschreibungen überschreiten
-08. sonstige betriebliche Aufwendungen
-09. Erträge aus Beteiligungen
-  a) davon aus verbundenen Unternehmen
-10. Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens
-  a) davon aus verbundenen Unternehmen
-11. sonstige Zinsen und ähnliche Erträge
-  a) davon aus verbundenen Unternehmen
-12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
-13. Zinsen und ähnliche Aufwendungen
-  davon an verbundene Unternehmen
-14. Ergebnis der gewöhnlichen Geschäftstätigkeit
-15. außerordentliche Erträge
-16. außerordentliche Aufwendungen
-17. außerordentliches Ergebnis
-18. Steuern vom Einkommen und vom Ertrag
-19. sonstige Steuern
-20. Jahresüberschuss/Jahresfehlbetrag
+01. Sales
+02. Increase or decrease in the inventory of finished and unfinished products
+03. other own work capitalized
+04. other operating income
+05. Cost of materials
+  a) Expenses for raw materials and supplies and for purchased goods
+  b) Expenses for purchased services
+06. Personnel expenses
+  a) Wages and salaries
+  b) social security and pension and support expenses
+    of that for pensions
+07. Depreciation
+  a) on intangible and tangible fixed assets
+  b) on current assets, insofar as these exceed the depreciation customary in the corporation
+08. other operating expenses
+09. Income from investments
+  a) of which from affiliated companies
+10. Income from other securities and loans from financial assets
+  a) of which from affiliated companies
+11. other interest and similar income
+  a) of which from affiliated companies
+12. Depreciation on financial assets and on securities held as current assets
+13. Interest and Similar Expenses
+  of which to affiliated companies
+14. Results of ordinary business activity
+15. Extraordinary Income
+16. Extraordinary expenses
+17. Extraordinary result
+18. Taxes on income and earnings
+19. other taxes
+20. Annual surplus / annual deficit
