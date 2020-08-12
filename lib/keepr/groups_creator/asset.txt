@@ -1,36 +1,36 @@
-A. Anlagevermögen
-  I. Immaterielle Vermögensgegenstände
-    1. Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
-    2. entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
-    3. Geschäfts- oder Firmenwert
-    4. geleistete Anzahlungen
-  II. Sachanlagen
-    1. Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken
-    2. technische Anlagen und Maschinen
-    3. andere Anlagen, Betriebs- und Geschäftsausstattung
-    4. geleistete Anzahlungen und Anlagen im Bau
-  III. Finanzanlagen
-    1. Anteile an verbundenen Unternehmen
-    2. Ausleihungen an verbundene Unternehmen
-    3. Beteiligungen
-    4. Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
-    5. Wertpapiere des Anlagevermögens
-    6. sonstige Ausleihungen
-B. Umlaufvermögen
-  I. Vorräte
-    1. Roh-, Hilfs- und Betriebsstoffe
-    2. unfertige Erzeugnisse, unfertige Leistungen
-    3. fertige Erzeugnisse und Waren
-    4. geleistete Anzahlungen
-  II. Forderungen und sonstige Vermögensgegenstände
-    1. Forderungen aus Lieferungen und Leistungen
-    2. Forderungen gegen verbundene Unternehmen
-    3. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
-    4. sonstige Vermögensgegenstände
-  III. Wertpapiere
-    1. Anteile an verbundenen Unternehmen
-    2. sonstige Wertpapiere
-  IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks
-C. Rechnungsabgrenzungsposten
-D. Aktive latente Steuern
-E. Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
+A. Fixed assets
+  I. Intangible Assets
+    1. Self-created industrial property rights and similar rights and values
+    2. Concessions acquired against payment, industrial property rights and similar rights and values ​​as well as licenses to such rights and values
+    3. Goodwill
+    4. Advance payments made
+  II. Tangible assets
+    1. Land, land rights and buildings, including buildings on third-party land
+    2. technical systems and machines
+    3. other equipment, factory and office equipment
+    4. Advance payments made and assets under construction
+  III. Financial assets
+    1. Shares in affiliated companies
+    2. Loans to affiliated companies
+    3. Holdings
+    4. Loans to companies with which there is a participation relationship
+    5. Fixed asset securities
+    6. other loans
+B. Current Assets
+  I. Inventories
+    1. Raw materials and supplies
+    2. unfinished products, unfinished services
+    3. finished goods and merchandise
+    4. Advance payments made
+  II. Receivables and other assets
+    1. Trade accounts receivable
+    2. Receivables from affiliated companies
+    3. Claims against companies with which a participation relationship exists
+    4. other assets
+  III. Securities
+    1. Shares in affiliated companies
+    2. other securities
+  IV. Cash in hand, Bundesbank balances, bank balances and checks
+C. Prepaid expenses
+D. Deferred Tax Assets
+E. Active difference from asset offsetting
