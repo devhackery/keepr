@@ -1,0 +1,36 @@
+A. Fixed assets
+  I. Intangible Assets
+    1. Self-created industrial property rights and similar rights and values
+    2. Concessions acquired against payment, industrial property rights and similar rights and values ​​as well as licenses to such rights and values
+    3. Goodwill
+    4. Advance payments made
+  II. Tangible assets
+    1. Land, land rights and buildings, including buildings on third-party land
+    2. technical systems and machines
+    3. other equipment, factory and office equipment
+    4. Advance payments made and assets under construction
+  III. Financial assets
+    1. Shares in affiliated companies
+    2. Loans to affiliated companies
+    3. Holdings
+    4. Loans to companies with which there is a participation relationship
+    5. Fixed asset securities
+    6. other loans
+B. Current Assets
+  I. Inventories
+    1. Raw materials and supplies
+    2. unfinished products, unfinished services
+    3. finished goods and merchandise
+    4. Advance payments made
+  II. Receivables and other assets
+    1. Trade accounts receivable
+    2. Receivables from affiliated companies
+    3. Claims against companies with which a participation relationship exists
+    4. other assets
+  III. Securities
+    1. Shares in affiliated companies
+    2. other securities
+  IV. Cash in hand, Bundesbank balances, bank balances and checks
+C. Prepaid expenses
+D. Deferred Tax Assets
+E. Active difference from asset offsetting
