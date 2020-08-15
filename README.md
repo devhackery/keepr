@@ -40,10 +40,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-
-Create Graoups from text file 
+Create Graoups from text file:
 
  $ Keepr::GroupsCreator.new(:balance).run
  $ Keepr::GroupsCreator.new(:profit_and_loss).run
