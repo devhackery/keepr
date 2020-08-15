@@ -43,6 +43,13 @@ Or install it yourself as:
 TODO: Write usage instructions here
 
 
+Create Graoups from text file 
+
+ $ Keepr::GroupsCreator.new(:balance).run
+ $ Keepr::GroupsCreator.new(:profit_and_loss).run
+
+
+
 ## Contributing
 
 1. Fork it
