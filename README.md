@@ -42,8 +42,44 @@ Or install it yourself as:
 
 Create Graoups from text file:
 
- $ Keepr::GroupsCreator.new(:balance).run
- $ Keepr::GroupsCreator.new(:profit_and_loss).run
+    ```$ rails c 
+        $ Keepr::GroupsCreator.new(:balance).run 
+        $ Keepr::GroupsCreator.new(:profit_and_loss).run
+    ```
+
+
+
+Create Group
+
+```
+Keepr::Group.new(is_result: true, target: :asset, name: 'foo')
+Keepr::Group.new(is_result: true, target: :profit_and_loss, name: 'foo')
+Keepr::Group.new(is_result: true, target: :liability, name: 'foo')
+```
+
+Create Account 
+```
+Keepr::Account.new(number: 999)
+Keepr::Account.new(number: 27, name: 'Software')
+```
+
+
+Jurnel Entry 
+```
+
+Keepr::Journal.create keepr_postings_attributes: [
+      { keepr_account: account_4920, amount: 8.40, side: 'debit' },
+      { keepr_account: account_1576, amount: 1.60, side: 'debit' },
+      { keepr_account: account_1600, amount: 10.00, side: 'credit' }
+    ]
+ Keepr::Journal.create! date: Date.yesterday,
+                           permanent: true,
+                           keepr_postings_attributes: [
+                             { keepr_account: account_1000, amount: 20, side: 'debit' },
+                             { keepr_account: account_1200, amount: 20, side: 'credit' }
+                           ]
+Keepr::Posting.create!(amount: 10, side: 'debit', keepr_account: account_1000, keepr_journal_id: 42
+```
 
 
 
