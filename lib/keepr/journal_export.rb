@@ -37,15 +37,15 @@ class Keepr::JournalExport
       next if posting == main_posting
 
       {
-        'Umsatz (ohne Soll/Haben-Kz)'    => posting.amount,
-        'Soll/Haben-Kennzeichen'         => 'S',
-        'Konto'                          => posting.debit?  ? posting.keepr_account.number : main_posting.keepr_account.number,
-        'Gegenkonto (ohne BU-Schlüssel)' => posting.credit? ? posting.keepr_account.number : main_posting.keepr_account.number,
-        'BU-Schlüssel'                   => '40', # Steuerautomatik deaktivieren
-        'Belegdatum'                     => journal.date,
-        'Belegfeld 1'                    => journal.number,
-        'Buchungstext'                   => journal.subject.slice(0, 60),
-        'Festschreibung'                 => journal.permanent
+        'Sales (without debit / credit indicator)'    => posting.amount,
+        'Debit / credit indicator'         => 'S',
+        'Account'                          => posting.debit?  ? posting.keepr_account.number : main_posting.keepr_account.number,
+        'Contra account (without BU key)' => posting.credit? ? posting.keepr_account.number : main_posting.keepr_account.number,
+        'BU key'                   => '40', # Steuerautomatik deaktivieren
+        'Investment date'                     => journal.date,
+        'Receipt field 1'                    => journal.number,
+        'Booking text'                   => journal.subject.slice(0, 60),
+        'Codification'                 => journal.permanent
       }.merge(@block ? @block.call(posting) : {})
     end.compact
   end

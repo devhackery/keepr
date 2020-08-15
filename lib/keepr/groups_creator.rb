@@ -33,7 +33,7 @@ class Keepr::GroupsCreator
       number, name = line.lstrip.match(/^(.*?)\s(.+)$/).to_a[1..-1]
 
       attributes = options.merge(name: name, number: number)
-      attributes[:is_result] = true if @target == :balance && name == 'Jahresüberschuss/Jahresfehlbetrag'
+      attributes[:is_result] = true if @target == :balance && name == 'Annual surplus / annual deficit'
 
       if depth.zero?
         parents = []

@@ -15,7 +15,7 @@ B. Provisions
 C. Liabilities
   1. Bonds
     of which convertible
-  2. Liabilities to banks
+  2. Liabilities to credit institutions
   3. Advance payments received on orders
   4. Trade accounts payable
   5. Liabilities from the acceptance of bills of exchange drawn and the issuance of own bills of exchange
@@ -24,12 +24,5 @@ C. Liabilities
   8. other liabilities
     a) of which from taxes
     b) of which in the context of social security
-  9. Current liabilities
-    a) Accounts payable
-    b) Interest payable
-    c) Income taxes payable
-    d) Bills payable
-    e) Sundry Creditors
-    f) Output VAT 
 D. Prepaid expenses
 E. Deferred Tax Liabilities

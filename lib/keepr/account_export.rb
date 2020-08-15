@@ -24,8 +24,8 @@ class Keepr::AccountExport
 
   def to_datev(account)
     {
-      'Konto'              => account.number,
-      'Kontenbeschriftung' => account.name.slice(0, 40)
+      'Account'              => account.number,
+      'Account Labeling' => account.name.slice(0, 40)
     }.merge(@block ? @block.call(account) : {})
   end
 end
