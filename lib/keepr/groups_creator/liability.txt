@@ -24,5 +24,12 @@ C. Liabilities
   8. other liabilities
     a) of which from taxes
     b) of which in the context of social security
+  9. Current liabilities
+    a) Accounts payable
+    b) Interest payable
+    c) Income taxes payable
+    d) Bills payable
+    e) Sundry Creditors
+    f) Output VAT 
 D. Prepaid expenses
 E. Deferred Tax Liabilities
