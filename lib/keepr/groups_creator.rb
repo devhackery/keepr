@@ -10,10 +10,10 @@ class Keepr::GroupsCreator
   def run
     case @target
     when :balance then
-      load 'asset.txt', target: :asset
-      load 'liability.txt', target: :liability
+      load 'asset_simple.txt', target: :asset
+      load 'liability_simple.txt', target: :liability
     when :profit_and_loss
-      load 'profit_and_loss.txt', target: :profit_and_loss
+      load 'profit_and_loss_simple.txt', target: :profit_and_loss
     end
   end
 

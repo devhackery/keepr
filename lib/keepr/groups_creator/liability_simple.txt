@@ -1,0 +1,16 @@
+A. Provisions
+  1. Provisions for PROVIDENT FUND and similar obligations
+  2. Tax RECEIVABLE(INPUT)
+  3. other provisions
+B. Liabilities
+  1. Liabilities to credit institutions
+  2. Advance payments received on orders
+  3. Liabilities to affiliated companies
+  4. BILLS PAYABLE
+  5. Other liabilities
+    a) of which from taxes
+C. SUNDRY CREDITORS
+D. SHORT TERM LIABILITIES
+E. LONG TERM LIABILITIES
+  1.ACCRUED EXPENSES
+  2.LOAG TERM LOAN
