@@ -4,13 +4,12 @@
 04. Cost of materials
   a) Expenses for raw materials, consumables and supplies and for purchased goods
   b) Expenses for purchased services
-05. Personnel expenses
+05. Staff expenses
   a) Wages and salaries
+  b) Insurance
 06. Depreciation
   a) on intangible assets and property, plant and equipment
 07. other operating expenses
-08. SALARY
-19. INSURANCE
 10. OTHER Expenses
 11. ADMINISTRATION EXPENSES
   a) RENT
